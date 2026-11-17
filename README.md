@@ -1,4 +1,4 @@
-<img width="1113" height="123" alt="image" src="https://github.com/user-attachments/assets/56bf223f-b90a-4377-9618-4cf6fbbf44fb" /># pdfcraft-ai
+# pdfcraft-ai
 将storytold/pdfcraft中的项目，结合ollama本地部署模型，实现AI的翻译，总结功能
 
 PdfCraft 便携版（解压即用，不需要安装 Rust / Cargo）
